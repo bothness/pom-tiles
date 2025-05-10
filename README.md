@@ -1,2 +1,2 @@
 # pom-tiles
-Vector tiles for Palestine Open Maps
+Vector and raster tiles for Palestine Open Maps.
